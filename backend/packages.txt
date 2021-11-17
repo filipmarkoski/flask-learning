@@ -1,0 +1,10 @@
+pip install flask-restful
+pip install -U flask-cors
+pip install -U Flask-SQLAlchemy
+pip install -U pyodbc
+pip install pandas
+pip install -U jupyter
+pip install ipykernel && python -m ipykernel install --user --name=.env
+pip install sqlalchemy-utils
+pip install Flask-Migrate
+pip install SQLAlchemy-serializer
